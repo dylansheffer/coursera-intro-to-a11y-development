@@ -89,6 +89,7 @@ input[type='submit'] {
 main {
   display: grid;
   grid-template-columns: minmax(410px, 2fr) 3fr;
+  grid-template-rows: 50px 1fr;
   gap: 2rem;
 }
 
