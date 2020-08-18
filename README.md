@@ -16,6 +16,9 @@ This repository are the stepped code examples for the Coursera Guided Project on
 
 ### Task 3 Links
 * [Bob Ross Lipsum Generator](https://www.bobrosslipsum.com/)
+* [Pug Image](https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=960&h=960&q=80)
+* [Charles Deluvio's Unsplash Page](https://unsplash.com/photos/K4mSJ7kc0As)
+* [Pawprint Image](https://upload.wikimedia.org/wikipedia/commons/5/51/Paw-print.svg)
 
 ### Task 6 Links
 * [WAI-ARIA Practices - Disclosure Pattern](https://www.w3.org/TR/wai-aria-practices-1.1/#disclosure)
